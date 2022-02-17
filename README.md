@@ -1,5 +1,7 @@
 #  Ohmyfood ! - Dynamisez une page web avec des animations CSS
 
+![ logo ](https://github.com/CarolineSenes/SENESCaroline_3_17032021/blob/master/images/restaurants/toa-heftiba-DQKerTsQwi0-unsplash.jpg)
+
 ##  Description générale du projet
 
 *Ohmyfood!* est une jeune startup qui voudrait s'imposer sur le marché de la restauration.
