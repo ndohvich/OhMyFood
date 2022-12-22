@@ -49,4 +49,5 @@ L'objectif est de développer un site 100% mobile qui répertorie les menus de r
 
 ###  Technos
 
-HTML, CSS (SASS)
+- HTML
+- CSS (SASS)
